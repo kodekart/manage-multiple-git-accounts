@@ -29,3 +29,6 @@ Note: This is intended for unix users.
 # Test Push
 
 # Test Pull
+
+
+Ref: https://mherman.org/blog/2013/09/16/managing-multiple-github-accounts/
